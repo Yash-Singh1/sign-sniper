@@ -31,6 +31,7 @@
     "expo-router": "^1.5.3",
     "expo-splash-screen": "~0.18.1",
     "expo-status-bar": "~1.4.4",
+    "jotai": "^2.0.4",
     "nativewind": "^2.0.11",
     "opencv-bindings": "^4.5.5",
     "opencv.js": "^1.2.1",

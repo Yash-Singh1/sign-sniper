@@ -28,8 +28,6 @@ const getBaseUrl = () => {
    */
   const localhost = Constants.manifest?.debuggerHost?.split(":")[0];
 
-  console.log(localhost);
-
   if (!localhost) {
     // return "https://your-production-url.com";
     throw new Error(
